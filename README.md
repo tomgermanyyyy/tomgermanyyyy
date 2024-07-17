@@ -7,4 +7,3 @@
 - 🔭 I’m currently studying at Ho Chi Minh City University of Technology, majoring in Computer Science.
 - 🌱 I’m interested in Software Development.
 - 📫 Gmail: duc.nv291@gmail.com
-- 📱 Phone: 0915098889
